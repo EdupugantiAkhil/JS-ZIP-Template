@@ -9,6 +9,6 @@
   "author": "Akhil",
   "license": "ISC",
   "dependencies": {
-    "jszip": "^3.9.1"
+    "archiver": "^5.3.1"
   }
 }

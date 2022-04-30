@@ -1,0 +1,14 @@
+{
+  "name": "js-zip-template",
+  "version": "1.0.0",
+  "description": "makes zip files using JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akhil",
+  "license": "ISC",
+  "dependencies": {
+    "jszip": "^3.9.1"
+  }
+}
